@@ -9,10 +9,11 @@ Adapun server yang kami bangun terdiri dari 3 server yakni :
 Pada project ini kami memilih menggunakan toko komputer sebagai study case untuk kami implementasikan pembuatan server dengan microservice.
 
 ## server 1
-Pada server 1 terhubung ke databases menggunakan Flask. Library yang digunakan:
+Pada server 1 terhubung ke databases menggunakan Flask. Run di localhost:5000. Library yang digunakan:
 - Flask
 - PyMySQL
 - yang lainnya dapat di lihat pada requirements.txt
+
 
 ## server 2
 Pada server 2 kami memilih menggunakan API iPaymu untuk melakukan payment. Server 2 akan terhubung ke API iPaymu dan mengirim request untuk redirect payment ke API iPaymu dan akan menampilkan hasil respond dari API iPaymu.
@@ -26,7 +27,7 @@ Adapun dependecny yang digunakan untuk membangun server 2 adalah sebagai berikut
 
 **Nilai PORT yang digunakan adalah 7000.
 ## server 3
-- Pada server 1 terhubung ke databases menggunakan Flask. Library yang digunakan:
+- Pada server 1 terhubung ke databases menggunakan Flask. Run di localhost:6000. Library yang digunakan:
 - Flask
 - PyMySQL
 - yang lainnya dapat di lihat pada requirements.txt
