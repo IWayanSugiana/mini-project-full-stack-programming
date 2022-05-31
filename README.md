@@ -12,9 +12,14 @@ Pada project ini kami memilih menggunakan toko komputer sebagai study case untuk
 ## server 2
 Pada server 2 kami memilih menggunakan API iPaymu untuk melakukan payment. Server 2 akan terhubung ke API iPaymu dan mengirim request untuk redirect payment ke API iPaymu dan akan menampilkan hasil respond dari API iPaymu.
 Adapun dependecny yang digunakan untuk membangun server 2 adalah sebagai berikut:
+
 - Axios
 - Crypto-js
 - Dotenv
 - Express
+
+*Notes: untuk menjalankan server 2, anda perlu membuat file .env untuk menyimpan variable VIRTUAL_ACCOUNT, API_KEY, dan PORT. 
+
+**Nilai PORT yang digunakan adalah 7000.
 ## server 3
 -
