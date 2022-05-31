@@ -1,4 +1,8 @@
 # mini-project-full-stack-programming
+## postman API documentation
+https://documenter.getpostman.com/view/17007409/Uz5DqHVY
+*set URL to localhost:5000, localhost:7000, localhost:6000 
+
 ## description
 Repositori ini berisi tugas mini project milik saya dan @anantaw81.
 Pada mini project ini kami belajar mengimplementasikan microservice pada server yang kami bangun.
